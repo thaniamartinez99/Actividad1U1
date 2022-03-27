@@ -1,0 +1,12 @@
+body{
+    background: rgb(93, 92, 92); /* color de fondo */
+    text-align: center;/* centrar texto */
+}
+
+h1{
+    color: white; /* color de letra */
+    font-size: 40px; /* tamaño de letra */
+}
+p{
+    color: white;
+}
